@@ -1,3 +1,9 @@
+# Obsidian Config
+.obsidian
+
+# Mapbox Config
+.mapbox_token
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
